@@ -1,2 +1,2 @@
 # keras_tutorial
-Quickly getting started with Keras
+A quickstart introduction to Keras, Generative Adversarial Networks, and hyperparameter optimization with SHERPA.
